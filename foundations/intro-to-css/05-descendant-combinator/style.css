@@ -1,0 +1,18 @@
+.container .text {
+    background-color: yellow;
+    color:red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* div .text {
+    background-color: green; 
+} */
+
+/* .container p {
+    background-color: orange;  
+} */
+
+/* div p {
+    background-color: blue;  
+} */
